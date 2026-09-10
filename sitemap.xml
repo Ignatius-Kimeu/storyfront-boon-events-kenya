@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://REPLACE-WITH-LIVE-URL/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://REPLACE-WITH-LIVE-URL/services.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://REPLACE-WITH-LIVE-URL/gallery.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://REPLACE-WITH-LIVE-URL/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://REPLACE-WITH-LIVE-URL/book.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://REPLACE-WITH-LIVE-URL/contact.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ignatius-kimeu.github.io/storyfront-boon-events-kenya/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://ignatius-kimeu.github.io/storyfront-boon-events-kenya/services.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ignatius-kimeu.github.io/storyfront-boon-events-kenya/gallery.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ignatius-kimeu.github.io/storyfront-boon-events-kenya/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ignatius-kimeu.github.io/storyfront-boon-events-kenya/book.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ignatius-kimeu.github.io/storyfront-boon-events-kenya/contact.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
